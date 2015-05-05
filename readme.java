@@ -4,4 +4,5 @@ class A{
 	//Added from web to dev branch
 	// again
 	//Added from web to dev branch 20150505
+	//git branch --set-upstream-to=origin/developer developer
 }
