@@ -6,5 +6,6 @@ class B{
 	
 	// added from web 09:59 same file
 	
-	// added from develop 
+	// added from develop 2
+	
 }
