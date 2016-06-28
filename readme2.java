@@ -8,4 +8,5 @@ class B{
 	
 	// added from develop 2
 	// changed after gamedev inited
+	// add from dev to tag a tag
 }
