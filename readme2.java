@@ -11,8 +11,10 @@ class B{
 	// add from dev to tag a tag
 	
 	// 20160803 bugfix
-	
-	
-	
+
 	// conflick-test------added form bugfix branch
+
+	//conflick-test------added form develop branch
+
+	// conflick-test------resolve
 }
